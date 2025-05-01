@@ -2,7 +2,10 @@
 
 A modern weather application built with Next.js and OpenWeatherMap API. This application provides current weather information and a 3-day forecast for any city around the world.
 
-![Weather App Screenshot](/placeholder.svg?height=300&width=600)
+![image](https://github.com/user-attachments/assets/6afaafb6-2753-453a-ba18-2f6edbe6008d)
+![image](https://github.com/user-attachments/assets/3cbf8ddc-af88-46a4-baf5-48e041fcb6f8)
+
+
 
 ## Features
 
@@ -137,21 +140,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Lucide React](https://lucide.dev/) for icons
 \`\`\`
 
-This README provides comprehensive documentation for your weather application, including installation instructions, features, usage guidelines, and project structure. You can customize it further by:
-
-1. Adding actual screenshots of your application
-2. Updating the GitHub repository URL
-3. Adding any specific deployment instructions
-4. Including any additional features you might add in the future
-
-Would you like me to make any changes or additions to this README?
-
-<Actions>
-  <Action name="Add screenshots to README" description="Add actual screenshots of the application to the README" />
-  <Action name="Create a .gitignore file" description="Add a .gitignore file for Next.js projects" />
-  <Action name="Add deployment instructions" description="Add instructions for deploying to Vercel or other platforms" />
-  <Action name="Create a contributing guide" description="Add a more detailed CONTRIBUTING.md file" />
-</Actions>
-
-\`\`\`
 
